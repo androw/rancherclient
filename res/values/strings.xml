@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rancher Client</string>
+    <string name="settings">Settings</string>
+    <string name="env">Environments</string>
+    <string name="save">Save</string>
+    <string name="hello">Section %1d is just a dummy section.</string>
+    <string name="hosts">Hosts</string>
+    <string name="containers">Containers</string>
+    <string name="stacks">Stacks</string>
+</resources>
